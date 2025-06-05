@@ -2,6 +2,9 @@
 
 An onchain idle battler showcasing The Root Network's multi-token gas economy and FuturePass wallet integration. Battle epic NFT fighters, earn $ROOT tokens, and experience the future of blockchain gaming!
 
+![TRN Battle Arena Screenshot](./public/scrn1.png)
+*Experience epic battles in the TRN Battle Arena - where blockchain gaming meets endless entertainment*
+
 ## 🎮 Game Features
 
 ### Core Gameplay
