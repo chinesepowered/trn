@@ -89,8 +89,3 @@ This app is designed for simple deployment:
 - **Vercel**: One-click deployment ready
 - **IPFS**: Decentralized hosting option
 - **Docker**: Containerized deployment
-
----
-
-**Built for TRN Game Forge Hackathon 2024**
-*Showcasing the future of blockchain gaming on The Root Network*
