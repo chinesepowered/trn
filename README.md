@@ -1,7 +1,5 @@
 # 🚀 TRN Battle Arena
 
-**Winner of TRN Game Forge Hackathon Track** 
-
 An onchain idle battler showcasing The Root Network's multi-token gas economy and FuturePass wallet integration. Battle epic NFT fighters, earn $ROOT tokens, and experience the future of blockchain gaming!
 
 ## 🎮 Game Features
